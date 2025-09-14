@@ -1,0 +1,8 @@
+bot/
+.env
+venv/
+**/__pycache__/*
+.env
+**/venv/*
+test.py
+docker-compose.yml

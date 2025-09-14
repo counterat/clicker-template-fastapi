@@ -1,0 +1,25 @@
+{
+    "name": "Yurii Zholtov",
+    "title": "Backend Developer | Team Lead",
+    "experience": {
+        "years": 4,
+        "roles": ["Backend Developer", "Team Lead", "Head of Telegram Dept."],
+        "industries": ["Web3", "Gaming", "Gambling", "High-load Apps", "Retail"]
+    },
+    "skills": {
+        "Backend": ["Python", "FastAPI", "Django", "Flask", "Node.js", "Redis", "Docker", "Kafka", "SQL", "NoSQL"],
+        "Frontend": ["JavaScript", "TypeScript", "React"],
+        "Other": ["AWS", "GCP", "DevOps", "Git", "ML/AI"]
+    },
+    "achievements": [
+        "Built 50+ projects during Web3 boom",
+        "Cut infra costs by 20%+",
+        "Launched apps with 2M+ MAU",
+        "Raised $50k from TON Foundation"
+    ],
+    "socials": {
+        "GitHub": "github.com/yourusername",
+        "TikTok": "@yourusername",
+        "Telegram": "@yourhandle"
+    }
+}
